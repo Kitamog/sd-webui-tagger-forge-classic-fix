@@ -1,0 +1,1 @@
+# sd-webui-tagger-forge-classic-fix
